@@ -205,7 +205,16 @@ a {
 .gallery-item{
     list-style: none;
 }
-.gellary-title{
+.gallery-list{
+    width: 370px;
+    height: 404px;
+    left: 215px;
+    top: 262px;
+    background: #FFFFFF;
+    border: 1px solid #EEEEEE;
+    box-sizing: border-box;
+}
+.gallery-title{
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: bold;
@@ -213,7 +222,7 @@ a {
     line-height: 36px;
     letter-spacing: 0.06em;
     color: #212121;
-}    
+}
 .gallery-text{
     font-family: 'Roboto', sans-serif;
     font-style: normal;
